@@ -6,7 +6,9 @@ build:
 	uv build
 package-install:
 	uv tool install dist/*.whl
-make lint:
-	uv run ruff check brain_games
+lint:
+	uv run ruff check brain-games
+fix:
+	uv run ruff check --fix brain-games
 uninstall hexlet-code:
 	uv tool uninstall hexlet-code

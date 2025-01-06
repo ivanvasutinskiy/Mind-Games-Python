@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/5e002949e4c499150d5e/maintainability)](https://codeclimate.com/github/ivanvasutinskiy/python-project-49/maintainability)
 
 The first project on [Hexlet](https://ru.hexlet.io/professions/python/projects/49): Brain Games.
-program: Python developer.
+\nprogram: Python developer.
 
 ### Installation and first run:
 

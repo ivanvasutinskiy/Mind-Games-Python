@@ -8,3 +8,7 @@ The first project on [Hexlet](https://ru.hexlet.io/professions/python/projects/4
 ### Installation and first run:
 
 [![asciicast](https://asciinema.org/a/JBZ5IDG4RcQpDtCl0nX0dHb3z.svg)](https://asciinema.org/a/JBZ5IDG4RcQpDtCl0nX0dHb3z)
+
+### THE SECOND GAME: brain-calc
+
+[![asciicast](https://asciinema.org/a/eBLwIgt4bvKg95l9YbQzut7gp.svg)](https://asciinema.org/a/eBLwIgt4bvKg95l9YbQzut7gp)

@@ -18,21 +18,24 @@ def main():
 
         print(f'Question: {num}')
         answer = input('Your answer: ')
-        if answer == 'yes' and flag == True:
+        if answer == 'yes' and flag:
             print('Correct!')
             n += 1
-        elif answer == 'no' and flag == False:
+        elif answer == 'no' and not flag:
             print('Correct!')
             n += 1
         else:
             if answer == 'yes':
-                print(f"'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, {name}!")
+                print("'yes' is wrong answer ;(. Correct answer was 'no'."
+                f"\nLet's try again, {name}!")
                 break
             elif answer == 'no':
-                print(f"'no' is wrong answer ;(. Correct answer was 'yes'.\nLet's try again, {name}!")
+                print("'no' is wrong answer ;(. Correct answer was 'yes'."
+                f"\nLet's try again, {name}!")
                 break
             else:
-                print(f"use only 'yes' or 'no'.\nLet's try again, {name}!")
+                print("use only 'yes' or 'no'."
+                f"\nLet's try again, {name}!")
                 break
             
     if n == 3:

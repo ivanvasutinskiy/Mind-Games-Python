@@ -12,3 +12,7 @@ The first project on [Hexlet](https://ru.hexlet.io/professions/python/projects/4
 ### THE SECOND GAME: brain-calc
 
 [![asciicast](https://asciinema.org/a/eBLwIgt4bvKg95l9YbQzut7gp.svg)](https://asciinema.org/a/eBLwIgt4bvKg95l9YbQzut7gp)
+
+### THE THIRD GAME: brain-gcd
+
+[![asciicast](https://asciinema.org/a/vXRRiDnzBx0r5Q6xjE9iSBHZf.svg)](https://asciinema.org/a/vXRRiDnzBx0r5Q6xjE9iSBHZf)

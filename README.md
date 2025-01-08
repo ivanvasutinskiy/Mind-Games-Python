@@ -16,3 +16,8 @@ The first project on [Hexlet](https://ru.hexlet.io/professions/python/projects/4
 ### THE THIRD GAME: brain-gcd
 
 [![asciicast](https://asciinema.org/a/vXRRiDnzBx0r5Q6xjE9iSBHZf.svg)](https://asciinema.org/a/vXRRiDnzBx0r5Q6xjE9iSBHZf)
+
+### THE FOURTH GAME: brain-progression
+
+[![asciicast](https://asciinema.org/a/kSeWIg1XFAvI37egtMgaKHNqK.svg)](https://asciinema.org/a/kSeWIg1XFAvI37egtMgaKHNqK)
+

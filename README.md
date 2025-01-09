@@ -23,4 +23,4 @@ The first project on [Hexlet](https://ru.hexlet.io/professions/python/projects/4
 
 ### THE FIFTH GAME: brain-prime
 
-[![asciicast](https://asciinema.org/a/zIBoTjFRs9zhiKysSPEI6u2ya.svg)](https://asciinema.org/a/zIBoTjFRs9zhiKysSPEI6u2ya)
+[![asciicast](https://asciinema.org/a/sM3fXLr624WUmr0BpaQCyAGWM.svg)](https://asciinema.org/a/sM3fXLr624WUmr0BpaQCyAGWM)

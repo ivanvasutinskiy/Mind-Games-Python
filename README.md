@@ -19,7 +19,7 @@ The first project on [Hexlet](https://ru.hexlet.io/professions/python/projects/4
 
 ### THE FOURTH GAME: brain-progression
 
-[![asciicast](https://asciinema.org/a/kSeWIg1XFAvI37egtMgaKHNqK.svg)](https://asciinema.org/a/kSeWIg1XFAvI37egtMgaKHNqK)
+[![asciicast](https://asciinema.org/a/0bRifi8xqJEa92OyDkUxpC3WA.svg)](https://asciinema.org/a/0bRifi8xqJEa92OyDkUxpC3WA)
 
 ### THE FIFTH GAME: brain-prime
 

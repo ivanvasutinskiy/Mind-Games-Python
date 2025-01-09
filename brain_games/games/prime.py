@@ -11,7 +11,6 @@ def start_game():
         if num % i == 0:
             total += 1
         
-
     question = f'{num}' 
     if total == 2:
         answaer = 'yes'

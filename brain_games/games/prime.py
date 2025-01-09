@@ -2,6 +2,7 @@ from random import randint
 
 RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
+
 def start_game():
     num = randint(1, 100)
     total = 0
@@ -15,4 +16,4 @@ def start_game():
     else:
         answaer = 'no'
 
-    return(question, answaer)
+    return (question, answaer)

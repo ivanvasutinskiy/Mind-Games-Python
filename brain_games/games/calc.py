@@ -7,11 +7,11 @@ OPERATIONS = [("+", add), ("-", sub), ("*", mul)]
 
 
 def start_game():
-    num1, num2 = randint(1, 100), randint(1, 100)
+    NUM1, NUM2 = randint(1, 100), randint(1, 100)
 
     operator, func = choice(OPERATIONS)
-    question = f'{num1} {operator} {num2}'
-    correct = func(num1, num2)
+    question = f'{NUM1} {operator} {NUM2}'
+    correct = func(NUM1, NUM2)
 
     return (question, str(correct))
 

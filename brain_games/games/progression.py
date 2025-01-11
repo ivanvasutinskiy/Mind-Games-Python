@@ -4,13 +4,13 @@ RULES = 'What number is missing in the progression?'
 
 
 def start_game():
-    step = randint(1, 11)
-    rang = randint(12, 16)
+    STEP = randint(1, 11)
+    RANG = randint(12, 16)
 
     progression = []
 
-    for i in range(2, rang):
-        num = step * i
+    for i in range(2, RANG):
+        num = STEP * i
         progression.append(str(num))
 
     answer = choice(progression)

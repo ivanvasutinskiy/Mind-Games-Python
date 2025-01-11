@@ -1,6 +1,6 @@
 from brain_games.cli import get_answer, welcome_user
 
-round = 3
+ROUNDS = 3
 
 
 def game_start(game):
@@ -8,7 +8,7 @@ def game_start(game):
 
     total = 0
 
-    while total < round:
+    while total < ROUNDS:
 
         question, correct = game.start_game()
 

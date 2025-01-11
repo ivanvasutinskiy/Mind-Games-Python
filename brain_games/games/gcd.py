@@ -4,14 +4,14 @@ RULES = 'Find the greatest common divisor of given numbers.'
 
 
 def start_game():
-    n1, n2 = randint(1, 100), randint(1, 100)
+    N1, N2 = randint(1, 100), randint(1, 100)
 
-    max_divisor = min(n1, n2)
+    max_divisor = min(N1, N2)
     
     for num in range(1, max_divisor + 1):
-        if n1 % num == 0 and n2 % num == 0:
+        if N1 % num == 0 and N2 % num == 0:
             answer = num
 
-    question = f'{n1} {n2}'  
+    question = f'{N1} {N2}'  
 
     return (question, str(answer))

@@ -2,10 +2,10 @@ from random import randint
 
 RULES = 'Answer "yes" if the number is even, otherwise answer "no".'
 
+ANSWER = randint(1, 100)
+
 
 def start_game():
-    ANSWER = randint(1, 100)
-
     if ANSWER % 2 == 0:
         is_even = 'yes'
     else:

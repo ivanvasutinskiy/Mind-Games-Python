@@ -2,9 +2,10 @@ from random import randint
 
 RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
+NUM = randint(1, 100)
+
 
 def start_game():
-    NUM = randint(1, 100)
     total = 0
 
     for i in range(1, NUM + 1):

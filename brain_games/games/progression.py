@@ -2,11 +2,11 @@ from random import choice, randint
 
 RULES = 'What number is missing in the progression?'
 
+STEP = randint(1, 11)
+RANG = randint(12, 16)
+
 
 def start_game():
-    STEP = randint(1, 11)
-    RANG = randint(12, 16)
-
     progression = []
 
     for i in range(2, RANG):

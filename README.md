@@ -5,6 +5,16 @@
 
 The first project on [Hexlet](https://ru.hexlet.io/professions/python/projects/49): Brain Games.   Program: Python developer.
 
+### DESCRIPTION
+
+"Mind Games" is a set of five console games based on popular mobile apps for brain training. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game and prompt you to play it again. Games:
+
+        1) Calculator. Arithmetic expressions that need to be calculated.
+        2) Progression. Finding missing numbers in a sequence of numbers.
+        3) Determining an even number.
+        4) Determining the greatest common divisor.
+        5) Determining a prime number.
+
 ### Installation and first run:
 
 [![asciicast](https://asciinema.org/a/JBZ5IDG4RcQpDtCl0nX0dHb3z.svg)](https://asciinema.org/a/JBZ5IDG4RcQpDtCl0nX0dHb3z)

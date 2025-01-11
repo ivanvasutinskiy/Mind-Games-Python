@@ -42,20 +42,22 @@ $ make package-install
 
 [![asciicast](https://asciinema.org/a/qB4BIxRQyajRq6XYwUpAOllqR.svg)](https://asciinema.org/a/qB4BIxRQyajRq6XYwUpAOllqR)
 
-### THE SECOND GAME: brain-calc
+### Game: "Parity Check"
+
+[![asciicast](https://asciinema.org/a/EOyHuV3ehTTpalngcnzAOxBBe.svg)](https://asciinema.org/a/EOyHuV3ehTTpalngcnzAOxBBe)
+
+### Game: "Calculator"
 
 [![asciicast](https://asciinema.org/a/eBLwIgt4bvKg95l9YbQzut7gp.svg)](https://asciinema.org/a/eBLwIgt4bvKg95l9YbQzut7gp)
 
-### THE THIRD GAME: brain-gcd
+### Game: "GCD"
 
 [![asciicast](https://asciinema.org/a/vXRRiDnzBx0r5Q6xjE9iSBHZf.svg)](https://asciinema.org/a/vXRRiDnzBx0r5Q6xjE9iSBHZf)
 
-### THE FOURTH GAME: brain-progression
+### Game: "Arithmetic progression"
 
 [![asciicast](https://asciinema.org/a/0bRifi8xqJEa92OyDkUxpC3WA.svg)](https://asciinema.org/a/0bRifi8xqJEa92OyDkUxpC3WA)
 
-### THE FIFTH GAME: brain-prime
+### Game: "Is a prime number?"
 
 [![asciicast](https://asciinema.org/a/sM3fXLr624WUmr0BpaQCyAGWM.svg)](https://asciinema.org/a/sM3fXLr624WUmr0BpaQCyAGWM)
-
-### END

@@ -31,7 +31,7 @@ $ sudo apt install make
 $ curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-- launching the program
+- Launching the program
 ```
 $ make install
 $ make build 

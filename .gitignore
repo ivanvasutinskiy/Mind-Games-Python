@@ -1,2 +1,5 @@
 .venv
 demo.cast
+__pycache__
+hexlet_code.egg-info
+.local

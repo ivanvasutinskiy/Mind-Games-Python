@@ -11,4 +11,4 @@ def start_game():
     else:
         is_even = 'no'
 
-    return (ANSWERr, is_even)
+    return (ANSWER, is_even)

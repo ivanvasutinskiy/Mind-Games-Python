@@ -40,7 +40,7 @@ $ make package-install
 
 ### Installation and first run:
 
-[![asciicast](https://asciinema.org/a/JBZ5IDG4RcQpDtCl0nX0dHb3z.svg)](https://asciinema.org/a/JBZ5IDG4RcQpDtCl0nX0dHb3z)
+[![asciicast](https://asciinema.org/a/qB4BIxRQyajRq6XYwUpAOllqR.svg)](https://asciinema.org/a/qB4BIxRQyajRq6XYwUpAOllqR)
 
 ### THE SECOND GAME: brain-calc
 

@@ -18,9 +18,5 @@ fix:
 
 uninstall hexlet-code:
 	uv tool uninstall hexlet-code
-	
-test-coverage:
-	uv run pytest --cov=gendiff tests --cov-report xml
 
-check:
-	uv run pytest
+

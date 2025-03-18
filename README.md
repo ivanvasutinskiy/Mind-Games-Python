@@ -20,46 +20,22 @@ Games:
 
 ## Installation
 
-- Сloning the github repository
+Сloning the github repository
 ```
-$ git clone git@github.com:ivanvasutinskiy/python-project-49.git
+$ git clone https://github.com/ivanvasutinskiy/Mind-Games-Python-.git
 ```
-- Install make on Ubuntu
-```
-$ sudo apt install make
-```
-- UV Installation
+UV Installation
 ```
 $ curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-- Launching the program
+## Launching the program
 ```
-$ make install
-$ make build 
-$ make package-install
+$ uv sync
+$ uv build 
+$ uv tool install dist/*.whl
 ```
 
-### Installation and first run:
+### Examples of how the program works:
 
-[![asciicast](https://asciinema.org/a/qB4BIxRQyajRq6XYwUpAOllqR.svg)](https://asciinema.org/a/qB4BIxRQyajRq6XYwUpAOllqR)
-
-### Game: "Parity Check"
-
-[![asciicast](https://asciinema.org/a/EOyHuV3ehTTpalngcnzAOxBBe.svg)](https://asciinema.org/a/EOyHuV3ehTTpalngcnzAOxBBe)
-
-### Game: "Calculator"
-
-[![asciicast](https://asciinema.org/a/eBLwIgt4bvKg95l9YbQzut7gp.svg)](https://asciinema.org/a/eBLwIgt4bvKg95l9YbQzut7gp)
-
-### Game: "GCD"
-
-[![asciicast](https://asciinema.org/a/vXRRiDnzBx0r5Q6xjE9iSBHZf.svg)](https://asciinema.org/a/vXRRiDnzBx0r5Q6xjE9iSBHZf)
-
-### Game: "Arithmetic progression"
-
-[![asciicast](https://asciinema.org/a/0bRifi8xqJEa92OyDkUxpC3WA.svg)](https://asciinema.org/a/0bRifi8xqJEa92OyDkUxpC3WA)
-
-### Game: "Is a prime number?"
-
-[![asciicast](https://asciinema.org/a/sM3fXLr624WUmr0BpaQCyAGWM.svg)](https://asciinema.org/a/sM3fXLr624WUmr0BpaQCyAGWM)
+[![asciicast](https://asciinema.org/a/cWQ8m3JnjPienQY1YgW3sf8D4.svg)](https://asciinema.org/a/cWQ8m3JnjPienQY1YgW3sf8D4)

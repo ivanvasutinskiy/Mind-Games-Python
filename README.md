@@ -20,7 +20,7 @@ Games:
 
 ## Installation
 
-Сloning the github repository
+Сloning the GitHub repository
 ```
 $ git clone https://github.com/ivanvasutinskiy/Mind-Games-Python-.git
 ```
